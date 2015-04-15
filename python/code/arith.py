@@ -1,17 +1,3 @@
-#
-# This script does simple arithmetic
-#
-# Use as follows, from the command line:
-#
-# python arith.py number operand number
-#
-# For example:
-# 
-# python arith.py 4 / 5
-#
-# 
-#
-
 import sys
 
 def main():
